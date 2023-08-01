@@ -10,6 +10,8 @@ public class Methods {
         int sum = a + b ;
         System.out.println("The sum of the numbers is: "+ sum);
 
+        }
+
     }
     public static void main(String[] args) {
         sum();
