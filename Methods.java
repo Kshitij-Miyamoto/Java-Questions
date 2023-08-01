@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Basic method for addition purposes.
 public class Methods {
     static void sum(){
         Scanner in = new Scanner(System.in);
@@ -12,12 +12,12 @@ public class Methods {
 
         }
 
-    }
     public static void main(String[] args) {
-        sum();
-
-
-
+        sum() ;
 
     }
-}
+    }
+
+
+
+
