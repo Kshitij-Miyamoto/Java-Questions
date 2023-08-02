@@ -2,8 +2,7 @@
 
 public class MethodDemo {
     static String greet(String input) {
-        String Designation = "Intern at palantir";
-        return "Hello " + input + " Intern at palantir London";
+        return "Hello " + input + ", Intern at palantir London";
     }
         static int greet(int input1) {
             return  input1 ;
