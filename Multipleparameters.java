@@ -9,7 +9,7 @@ public class Multipleparameters {
         Info("kshitij Sharma", 20);
 
         Info("Shouray", 16);
-        
+
         Info("sourav Joshi",25);
     }
 
