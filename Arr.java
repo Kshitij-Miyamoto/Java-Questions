@@ -5,7 +5,7 @@ public class Arr {
         Scanner in = new Scanner(System.in);
         System.out.println("Enter the space of an array: ");
         int n = in.nextInt();
-        int [] arr = new int[0];//initalizing an array
+        int [] arr =  new int[0];  //initalizing an array
         arr = new int[n]; // allocating space for the array.
         int max = arr[0];
         int min = arr[0];
